@@ -1,3 +1,7 @@
+body {
+  background-image: url("../images/empire_state.jpg");
+}
+
 img {
 	border: 2px solid black;
 }
